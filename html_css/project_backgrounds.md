@@ -24,6 +24,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [Erixun's Solution](https://github.com/Erixun/building-backgrounds) - [View in Browser](https://erixun.github.io/building-backgrounds/apple-site.html)
 * [kaliberpoziomka's Solution](https://github.com/kaliberpoziomka/apple-clone) - [View in Browser](https://kaliberpoziomka.github.io/apple-clone/)
 * [Uduak Essien's Solution](https://acushlakoncept.github.io/old_version_apple/) - [View in Browser](https://github.com/acushlakoncept/old_version_apple)
 * [Mikael's Solution](https://github.com/Mikearaya/apple-clone) - [View in Browser](https://mikearaya.github.io/apple-clone)
